@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Emoji from 'a11y-react-emoji';
 
 class Footer extends Component {
   render() {
@@ -19,7 +20,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>Modified with love by the Clever Programmer team <Emoji symbol="♥️" label="heart" /></li>
            </ul>
 
            <ul className="copyright">
