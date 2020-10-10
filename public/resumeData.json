@@ -137,7 +137,37 @@
         "title": "Shoe Store",
         "category": "Shoe Store built with ReactJS, Material UI & React Router",
         "image": "react-shoe-store.png",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "http://shoe-store-ahmedali8.surge.sh/"
+      },
+      {
+        "title": "Animated Website",
+        "category": "Animated Website built with ReactJS, Material UI, Web Animation API & React Router",
+        "image": "tiny-short-animation.png",
+        "url": "http://tiny-short-animation-ahmedali8.surge.sh/"
+      },
+      {
+        "title": "TechXSols",
+        "category": "TechXSols built with ReactJS, Bootstrap & React Router",
+        "image": "techxsols-website.PNG",
+        "url": "http://react-animated-techxsols-website.surge.sh/"
+      },
+      {
+        "title": "Dimaond Farmer",
+        "category": "Diamond Fiver is a Yield Farm DApp in progress",
+        "image": "diamond-farmer.png",
+        "url": "http://diamond-farmer.surge.sh/"
+      },
+      {
+        "title": "Todo list",
+        "category": "Todo List DApp built using JavaScript, Bootstrap and other tools",
+        "image": "todolist.png",
+        "url": "http://todo-list-dapp-ahmedali8.surge.sh/"
+      },
+      {
+        "title": "Edveri DVS",
+        "category": "Edveri DApp is a document verification system built using Solidity, ReactJS and other tools",
+        "image": "edveri-website.png",
+        "url": "http://edveri.surge.sh/"
       }
     ]
   },
