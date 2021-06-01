@@ -15,7 +15,7 @@
             "zip": "75850"
         },
         "website": "https://contact.fyi/lmeuopplnl",
-        "resumedownload": "https://contact.fyi/lmeuopplnl",
+        "resumedownload": "https://znap.link/ahmedalibhatti",
         "social": [
             {
                 "name": "facebook",
@@ -73,6 +73,18 @@
             }
         ],
         "work": [
+            {
+                "company": "upwork.com",
+                "title": "Blockchain Developer",
+                "years": "Feb 2021 - Present",
+                "description": "Working as a Freelance Developer"
+            },
+            {
+                "company": "fiverr.com",
+                "title": "Blockchain Developer",
+                "years": "September 2020 - Present",
+                "description": "Working as a Freelance Developer"
+            },
             {
                 "company": "Corecis.org",
                 "title": "Blockchain Developer",
@@ -168,22 +180,46 @@
                 "category": "Edveri DApp is a document verification system built using Solidity, ReactJS and other tools",
                 "image": "edveri-website.png",
                 "url": "http://edveri.surge.sh/"
+            },
+            {
+                "title": "Tulips and Oracles NFT",
+                "category": "This is a NFT which changes according to the weather condition deployed on matic testnet",
+                "image": "tulips.png",
+                "url": "https://liveart.dartco.art/"
+            },
+            {
+                "title": "Yearfi finance",
+                "category": "This is a staking and farming platform for YFIII token",
+                "image": "yearfi.png",
+                "url": "https://yearfi.finance/"
+            },
+            {
+                "title": "Base Reward Token",
+                "category": "This is a staking platform for BRT token",
+                "image": "brt.png",
+                "url": "https://finance.basereward.online/"
+            },
+            {
+                "title": "Convert Carbon",
+                "category": "This is a website for presale and sale of Carbon token",
+                "image": "convertcarbon.png",
+                "url": "https://convertcarbon.eu/"
             }
         ]
     },
     "testimonials": {
         "testimonials": [
             {
-                "text": "Thank you for fast delivery!",
-                "user": "Corrado, Switzerland"
+                "text": "Thank you so much, I enjoyed alot working on this project!",
+                "user": "Dan Lozinca, Romania"
             },
             {
-                "text": "Amazing design and creativity, Loved the work",
-                "user": "Muhammad Ali, Pakistan"
+                "text": "Ahmed is truly a super full stack blockchain dev. I appreciate his work and commitment to deliver above and beyond what is required of him. His input in building us a full Dapp on BSc is impressive, a smart contract without bugs or vulnerabilities. HIS COMMUNICATION IS top-notch and his understanding supered. He was very forthcoming that the additional work was outside his area of expertise, we will keep working together long term. I RECOMMEND HIM TO ANY PROJECT OR TEAM. IF YOU WANT THE BEST.",
+                "user": "Base Reward Token Ecosystem, Cameroon"
             },
             {
-                "text": "Absolutely amazing person and completed the work on time!",
-                "user": "John, New York"
+                "text": "I am very impressed and very grateful! Ahmed is skilled at his work- not only with web3 application but web design and overall UI support. I will definitely be using his work again and highly recommend!",
+                "user": "Lucas, Switzerland"
             }
         ]
     }
